@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserAccounting", "UserAccounting\UserAccounting.csproj", "{DEBD4BD6-356A-4572-A385-343072BC5C52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserAccounting.DAL", "UserAccounting.DAL\UserAccounting.DAL.csproj", "{3B8400BC-BB22-4458-A215-2BBD5A73D9D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEBD4BD6-356A-4572-A385-343072BC5C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEBD4BD6-356A-4572-A385-343072BC5C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEBD4BD6-356A-4572-A385-343072BC5C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEBD4BD6-356A-4572-A385-343072BC5C52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B8400BC-BB22-4458-A215-2BBD5A73D9D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B8400BC-BB22-4458-A215-2BBD5A73D9D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B8400BC-BB22-4458-A215-2BBD5A73D9D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B8400BC-BB22-4458-A215-2BBD5A73D9D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FD09992-0213-47FE-8104-E6FA236B309C}
+	EndGlobalSection
+EndGlobal
